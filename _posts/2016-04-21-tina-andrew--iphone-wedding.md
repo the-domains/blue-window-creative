@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Tina + Andrew . iPhone Wedding
-datePublished: '2016-04-21T00:27:31.233Z'
-dateModified: '2016-04-21T00:27:21.316Z'
+datePublished: '2016-04-21T00:36:25.812Z'
+dateModified: '2016-04-21T00:36:24.991Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-21-tina-andrew--iphone-wedding.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-21-tina-andrew--iphone-wedding.md
-published: true
 url: tina-andrew--iphone-wedding/index.html
 _type: Article
 
